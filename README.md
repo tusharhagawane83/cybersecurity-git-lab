@@ -7,3 +7,7 @@ My hands-on Git and GitHub practice repository.
 - Practice GitHub workflows
 - Document cybersecurity labs and commands
 - Build a cybersecurity portfolio
+
+## Current Learning
+- Git and GitHub fundamentals
+- Building a cybersecurity portfolio
