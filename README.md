@@ -11,3 +11,10 @@ My hands-on Git and GitHub practice repository.
 ## Current Learning
 - Git and GitHub fundamentals
 - Building a cybersecurity portfolio
+
+
+## Repository Structure
+- Git and GitHub practice
+- Cybersecurity lab documentation
+- Security tools and scripts
+- Investigation notes and evidence
