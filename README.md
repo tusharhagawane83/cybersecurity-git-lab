@@ -18,3 +18,9 @@ My hands-on Git and GitHub practice repository.
 - Cybersecurity lab documentation
 - Security tools and scripts
 - Investigation notes and evidence
+
+## Cybersecurity Learning Approach
+- Practice only in authorized labs and environments
+- Document commands, observations, and evidence
+- Explain findings instead of copying commands blindly
+- Keep projects and notes organized for future review
